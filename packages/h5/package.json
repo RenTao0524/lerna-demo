@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/mu/"
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/RenTao0524/lerna-demo/issues"
-  },
-  "gitHead": "bc71f13d8e924bf62ef1748b2a4b30e9d1b60608"
+  }
 }
