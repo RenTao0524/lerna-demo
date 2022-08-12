@@ -3,5 +3,5 @@
 module.exports = taro;
 
 function taro() {
-    return "Hello from taro 2";
+    return "Hello fr  om taro 2";
 }
