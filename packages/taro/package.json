@@ -1,0 +1,29 @@
+{
+  "name": "taro",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "RT <rentao0524@163.com>",
+  "homepage": "https://github.com/RenTao0524/lerna-demo#readme",
+  "license": "ISC",
+  "main": "lib/taro.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenTao0524/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/taro.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/RenTao0524/lerna-demo/issues"
+  }
+}
